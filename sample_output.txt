@@ -1,0 +1,30 @@
+
+Gantt Chart (FCFS):
+| P1 | P2 | P3 | P4 |
+0   5   8  10  14
+
+FCFS Metrics:
+PID  AT  BT  WT  TAT
+  1   0   5   0    5
+  2   2   3   3    6
+  3   4   2   4    6
+  4   6   4   4    8
+
+Average WT  = 2.75
+Average TAT = 6.25
+CPU Utilization (FCFS) = 100.00%
+
+Gantt Chart (SJF (Non-preemptive)):
+| P1 | P3 | P2 | P4 |
+0   5   7  10  14
+
+SJF Metrics:
+PID  AT  BT  WT  TAT
+  1   0   5   0    5
+  3   4   2   1    3
+  2   2   3   5    8
+  4   6   4   4    8
+
+Average WT  = 2.50
+Average TAT = 6.00
+CPU Utilization (SJF)  = 100.00%
