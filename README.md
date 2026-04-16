@@ -6,8 +6,7 @@
 - First-Fit Memory Allocation
 - FIFO Page Replacement
 
-
-## How to Run
+# How to Run
 Compile and run:
 gcc main.c -o sim
 ./sim
