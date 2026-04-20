@@ -4,7 +4,7 @@
 - FCFS Scheduling
 - SJF Scheduling (Non-preemptive)
 - First-Fit Memory Allocation
-- FIFO Page Replacement
+- FIFO Page Replacements
 
 ## How to Run
 Compile and run:
