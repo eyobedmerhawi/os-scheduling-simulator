@@ -1,6 +1,6 @@
 # Operating Systems Scheduling Simulator
 
-## Features
+## Features:
 - FCFS Scheduling
 - SJF Scheduling (Non-preemptive)
 - First-Fit Memory Allocation
